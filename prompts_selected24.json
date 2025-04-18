@@ -1,0 +1,61 @@
+{
+    "images": [
+      {
+        "filename": "Glass_Perfume_Bottle",
+        "prompt": "An elegant glass perfume bottle with etched floral designs, golden stopper, and refracted light, on velvet, photorealistic with intricate reflections.",
+        "negative_prompt": "blurry, low contrast, simple design, unrealistic colors, pixelated",
+        "resolutions": [
+          "2048,2048",
+          "4096,4096",
+          "2048,4096",
+          "4096,2048"
+        ]
+      },
+        {
+            "filename": "Ancient_Samurai_Sword",
+            "prompt": "A beautifully crafted samurai sword resting on a wooden stand, its razor-sharp blade reflecting candlelight, intricate engravings on the hilt, silk-wrapped handle showing fine details, photorealistic with dramatic lighting.",
+            "negative_prompt": "blurry engravings, low-detail blade, unrealistic reflections, flat colors",
+            "resolutions": [
+              "2048,2048",
+              "4096,4096",
+              "2048,4096",
+              "4096,2048"
+            ]
+        },
+        
+        {
+            "filename": "Lonely_Cast_Iron_Lantern",
+            "prompt": "An antique cast iron lantern sitting on a moss-covered stone, its glass panels slightly fogged, intricate metalwork patterns catching the last rays of the sun, photorealistic with detailed textures.",
+            "negative_prompt": "blurry metalwork, flat lighting, low-detail glass, pixelation",
+            "resolutions": [
+              "2048,2048",
+              "4096,4096",
+              "2048,4096",
+              "4096,2048"
+            ]
+          },
+        {
+            "filename": "Abandoned_Rowboat_on_Lake",
+            "prompt": "An old wooden rowboat resting on the shore of a tranquil lake, its peeling paint revealing aged wood beneath, gentle ripples in the water reflecting the setting sun, photorealistic with soft natural lighting.",
+            "negative_prompt": "blurry boat textures, unrealistic water reflections, flat lighting, excessive clutter",
+            "resolutions": [
+              "2048,2048",
+              "4096,4096",
+              "2048,4096",
+              "4096,2048"
+            ]
+        },
+        {
+            "filename": "Massive_Fallen_Tree_in_Forest",
+            "prompt": "A massive fallen tree in a dense forest, its bark covered in moss, intricate growth rings visible on the exposed trunk, sunlight filtering through the canopy, photorealistic with detailed wood textures.",
+            "negative_prompt": "blurry bark, low-detail moss, unnatural lighting, cluttered background",
+            "resolutions": [
+              "2048,2048",
+              "4096,4096",
+              "2048,4096",
+              "4096,2048"
+            ]
+        }
+    ]
+  }
+  

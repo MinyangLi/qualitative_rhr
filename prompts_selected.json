@@ -1,0 +1,61 @@
+{
+    "images": [
+      {
+        "filename": "Stained_Glass_Mural",
+        "prompt": "A massive stained glass mural depicting a celestial sun and moon intertwined, glowing as sunlight passes through, casting colorful reflections on a polished marble floor, photorealistic with intricate glass textures, rich vibrant hues, and dramatic light dispersion.",
+        "negative_prompt": "blurry, flat, dull colors, simplistic, unrealistic reflections",
+        "resolutions": [
+          "2048,2048",
+          "4096,4096",
+          "2048,4096",
+          "4096,2048"
+        ]
+      },
+      {
+        "filename": "Silk_Dragon_Tapestry",
+        "prompt": "A silk tapestry depicting a golden dragon winding through crimson clouds, hung against an ancient stone wall, photorealistic with fine embroidered threads and shimmering fabric texture.",
+        "negative_prompt": "blurry, low-contrast, pixelated, rough, undefined",
+        "resolutions": [
+          "2048,2048",
+          "4096,4096",
+          "2048,4096",
+          "4096,2048"
+        ]
+      },
+      {
+        "filename": "Glassblower_Masterpiece",
+        "prompt": "A master glassblower crafting an intricate phoenix sculpture from molten glass, the glowing material twisting into delicate fiery wings as he shapes it with metal tools, photorealistic with intense heat glow, light refractions, and ultra-fine glass details.",
+        "negative_prompt": "dull, oversimplified, unrealistic reflections, weak lighting, blurry",
+        "resolutions": [
+          "2048,2048",
+          "4096,4096",
+          "2048,4096",
+          "4096,2048"
+        ]
+      },
+      {
+        "filename": "Celestial_Orrery",
+        "prompt": "An ancient brass orrery with rotating planetary rings and glowing constellations, set in a dimly lit observatory under a glass dome showing the real night sky, intricate clockwork gears turning as cosmic dust swirls around, photorealistic with ultra-fine metal engravings, realistic reflections, and glowing celestial details.",
+        "negative_prompt": "blurry, low-detail, flat lighting, unrealistic reflections, oversimplified",
+        "resolutions": [
+          "2048,2048",
+          "4096,4096",
+          "2048,4096",
+          "4096,2048"
+        ]
+      }, 
+      {
+        "filename": "Ivory_Serpent_Staff",
+        "prompt": "An intricately carved ivory serpent coiled tightly around a ruby-tipped sorcerer’s staff, resting on a velvet-draped pedestal, the gemstone pulsing with arcane energy, photorealistic with hyper-detailed ivory engravings, realistic fabric textures, and glowing magical effects.",
+        "negative_prompt": "flat, basic, untextured, fake-looking, low-contrast",
+        "resolutions": [
+          "2048,2048",
+          "4096,4096",
+          "2048,4096",
+          "4096,2048"
+        ]
+      }
+
+      
+    ]
+  }

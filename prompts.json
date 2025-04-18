@@ -1,0 +1,59 @@
+{
+  "images": [
+    {
+      "filename": "Rusty_Anchor_on_Sand",
+      "prompt": "An old rust-covered iron anchor partially buried in wet sand, detailed corrosion and texture on the surface, surrounded by subtle tide marks, photorealistic with overcast lighting.",
+      "negative_prompt": "flat texture, blurry corrosion, unrealistic colors, cluttered elements",
+      "resolutions": [
+        "2048,2048",
+        "4096,4096",
+        "2048,4096",
+        "4096,2048"
+      ]
+    },
+    {
+      "filename": "Emerald_Cut_Green_Gemstone",
+      "prompt": "A single emerald-cut green gemstone on black velvet, its sharp facets reflecting precise highlights, surrounded by soft shadows, photorealistic and isolated in frame.",
+      "negative_prompt": "blurry edges, unnatural lighting, low reflection detail, noisy background",
+      "resolutions": [
+        "2048,2048",
+        "4096,4096",
+        "2048,4096",
+        "4096,2048"
+      ]
+    },
+    {
+      "filename": "Weathered_Birdhouse_on_Post",
+      "prompt": "A weathered wooden birdhouse with peeling paint mounted on an old fence post, surrounded by soft grass and moss, photorealistic with sharp wood grain and natural textures.",
+      "negative_prompt": "unrealistic paint, flat lighting, synthetic textures, multiple distractions",
+      "resolutions": [
+        "2048,2048",
+        "4096,4096",
+        "2048,4096",
+        "4096,2048"
+      ]
+    },
+    {
+      "filename": "Glass_Inkwell_and_Feather_Quill",
+      "prompt": "A vintage glass inkwell beside a feather quill on an aged parchment sheet, reflections on the inkwell and fine feather barbs in sharp focus, photorealistic with warm desk lighting.",
+      "negative_prompt": "cartoonish quill, flat glass reflection, low feather detail, clutter",
+      "resolutions": [
+        "2048,2048",
+        "4096,4096",
+        "2048,4096",
+        "4096,2048"
+      ]
+    },
+    {
+      "filename": "Moss_Covered_Stone_Statue",
+      "prompt": "A small stone Buddha statue partially covered in moss, sitting in a forest clearing, rough stone texture and fine moss detail visible, photorealistic with diffused natural light.",
+      "negative_prompt": "smooth stone, artificial moss, low detail texture, overexposed lighting",
+      "resolutions": [
+        "2048,2048",
+        "4096,4096",
+        "2048,4096",
+        "4096,2048"
+      ]
+    }
+  ]
+}

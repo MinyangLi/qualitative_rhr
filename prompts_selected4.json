@@ -1,0 +1,59 @@
+{
+    "images": [
+      {
+        "filename": "Brass_Peacock_Automaton",
+        "prompt": "A highly detailed, antique brass clockwork automaton in the form of a majestic peacock, its gears and mechanisms visible as it struts across a polished mahogany table, photorealistic with intricate brass engravings, glowing crystal eyes, and delicate feather-like gears.",
+        "negative_prompt": "blurry, low-contrast, pixelated, rough, undefined",
+        "resolutions": [
+          "2048,2048",
+          "4096,4096",
+          "2048,4096",
+          "4096,2048"
+        ]
+      },
+      {
+        "filename": "Frosted_Maple_Leaf_on_Stone",
+        "prompt": "A single red maple leaf with frosted edges lying on textured gray stone, every vein and crystal detail visible, centered composition, photorealistic with morning light and soft shadows.",
+        "negative_prompt": "blurry veins, flat lighting, unrealistic frost, cluttered background",
+        "resolutions": [
+          "2048,2048",
+          "4096,4096",
+          "2048,4096",
+          "4096,2048"
+        ]
+      },
+      {
+        "filename": "Spotted_Owl_Feather_Closeup",
+        "prompt": "A single spotted owl feather lying on a wooden surface, fine barbs and soft texture clearly visible, subtle light and shadows highlighting its gentle curve, photorealistic and centered.",
+        "negative_prompt": "blurry feather detail, flat lighting, low texture quality, background noise",
+        "resolutions": [
+          "2048,2048",
+          "4096,4096",
+          "2048,4096",
+          "4096,2048"
+        ]
+      },
+    {
+      "filename": "Emerald_Cut_Green_Gemstone",
+      "prompt": "A single emerald-cut green gemstone on black velvet, its sharp facets reflecting precise highlights, surrounded by soft shadows, photorealistic and isolated in frame.",
+      "negative_prompt": "blurry edges, unnatural lighting, low reflection detail, noisy background",
+      "resolutions": [
+        "2048,2048",
+        "4096,4096",
+        "2048,4096",
+        "4096,2048"
+      ]
+    },
+    {
+      "filename": "Weathered_Birdhouse_on_Post",
+      "prompt": "A weathered wooden birdhouse with peeling paint mounted on an old fence post, surrounded by soft grass and moss, photorealistic with sharp wood grain and natural textures.",
+      "negative_prompt": "unrealistic paint, flat lighting, synthetic textures, multiple distractions",
+      "resolutions": [
+        "2048,2048",
+        "4096,4096",
+        "2048,4096",
+        "4096,2048"
+      ]
+    }
+    ]
+  }
